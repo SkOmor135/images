@@ -69,3 +69,9 @@ position: absolute;
 .unorderd{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.thing{
+    position: absolute;
+   margin-left: -600px;
+   margin-top: -300px;
+   
+}
