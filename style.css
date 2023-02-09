@@ -72,6 +72,42 @@ position: absolute;
 .thing{
     position: absolute;
    margin-left: -600px;
-   margin-top: -300px;
+   margin-top: -420px;
+   height: 500px;
+   width: 400px;
    
+}
+.ski-ll {
+    display: flex;
+    text-align: center;
+    gap: 24px;
+}
+
+.skill {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.skill-big {
+    color: #757575;
+}
+
+.resume {
+    text-align: center;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 130px;
+}
+.plan{
+    text-align: center;
 }
